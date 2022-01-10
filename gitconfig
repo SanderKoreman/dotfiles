@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sanderkoreman@gmail.com
+	name = Sander Koreman
